@@ -1,6 +1,3 @@
-[submodule "scripts/bin/export-compile-commands"]
-	path = scripts/bin/export-compile-commands
-	url = https://github.com/tarruda/premake-export-compile-commands.git
-[submodule "external/imgui"]
-	path = external/imgui
+[submodule "Externals/imgui"]
+	path = Externals/imgui
 	url = https://github.com/ocornut/imgui

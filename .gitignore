@@ -497,3 +497,7 @@ MigrationBackup/
 
 
 Scripts/projects/
+compile_commands.json
+riff.rdbg
+fiffviewer.sublime-project
+fiffviewer.sublime-workspace
